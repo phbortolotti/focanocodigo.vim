@@ -1,1 +1,1 @@
-command! focanocodigo call focanocodigo#print()
+command! Focanocodigo call focanocodigo#print()
