@@ -1,1 +1,1 @@
-command! Devlindo call focanocodigo#print()
+command! focanocodigo call focanocodigo#print()

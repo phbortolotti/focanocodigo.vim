@@ -1,4 +1,4 @@
-fun! focanocodigo#print()
+function! focanocodigo#print()
     echo '                                            '
     echo '                                            '
     echo '        Véi, Foca no código!                '
@@ -17,4 +17,4 @@ fun! focanocodigo#print()
     echo '                                  `-`       '
     echo '                                            '
     echo '                                            '
-endf
+endfunction
